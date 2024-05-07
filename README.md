@@ -1,7 +1,5 @@
-# Meu dia
-### Dia chuvoso =(
-
-Meu dia foi bom =)
+# Tutorial para hello world no python 
 
 ```python
-print("Hello Mundo!")
+print("Hello World")
+```
